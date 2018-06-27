@@ -15,6 +15,7 @@ public class DiceJobSearch {
 	public static void main(String[] args) {
 		// Set up chrome dirver path
 		WebDriverManager.chromedriver().setup();
+		
 //		System.setProperty("webdriver.chrome.driver", "/Users/anaf/Documents/Selenium Dependencies/drivers/chromedriver");
 		
 		        // invoke selenim webdriver
